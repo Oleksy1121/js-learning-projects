@@ -3,7 +3,7 @@
 A simple calculator built with plain HTML, CSS, and JavaScript. It supports basic math operations like addition, subtraction, multiplication, division, percentage calculation, as well as input clearing (AC) and deletion (DEL).
 
 ## 📸 Preview
-![[Pasted image 20250505220251.png]]
+![](attachments/Pasted%20image%2020250505220251.png)
 
 ## 🚀 How to Run
 
