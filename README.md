@@ -6,6 +6,7 @@ This repository contains a collection of small front-end projects created as par
 
 - [Calculator](./calculator) – Basic website calculator using HTML, CSS, and vanilla JavaScript.
 - [Weather app](./weather-app) – Basic weather application fetching data from OpenWeatherMap API.
+- [To do list](./to-do-list) - A simple web application to manage and save your daily tasks in the browser.
 
 *(More projects will be added as I learn new concepts.)*
 
